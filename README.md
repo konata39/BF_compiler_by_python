@@ -1,4 +1,4 @@
 # BF compiler by python
-source: https://zh.wikipedia.org/wiki/Brainfuck
-Note: The code is available only for Windoes and Linux
-Usage: save BF code as "code.txt" and execute main.py to compile
+source: https://zh.wikipedia.org/wiki/Brainfuck<br>
+Note: The code is available only for Windoes and Linux<br>
+Usage: save BF code as "code.txt" and execute main.py to compile<br>
