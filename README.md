@@ -2,7 +2,7 @@
 ## source 
 https://zh.wikipedia.org/wiki/Brainfuck<br>
 ## Note
-The code is available only for Windoes and Linux<br>
+The compiler is available only for Windoes and Linux<br>
 This compiler accept command line (//) and space inside the code.
 Otherwise, it will show the error.
 ## Usage
