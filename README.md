@@ -1,6 +1,7 @@
 # BrainFuck compiler by python
 ## source 
-https://zh.wikipedia.org/wiki/Brainfuck<br>
+Chinese: https://zh.wikipedia.org/wiki/Brainfuck<br>
+English: https://en.wikipedia.org/wiki/Brainfuck<br>
 ## Note
 The compiler is available only for Windoes and Linux<br>
 This compiler accept command line (//) and space inside the code.
